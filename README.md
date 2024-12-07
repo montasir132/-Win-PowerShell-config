@@ -1,31 +1,29 @@
-Find out the IP address
-                     ipconfig
-                     ipconfig / al
-                     ipconfig / al ! findstr dns
-                     ipconfig / release
-       new ip-         ipconfig / renew
-history check-         ipconfig/displaydns
-history delete-        ipconfig/flushdns
-                     ipconfig / displaydns
-                     ipconfig / displaydns ! clip
+<h2>Find out the IP address</h2>
+                     ipconfig</br>
+                     ipconfig / al</br>
+                     ipconfig / al ! findstr dns</br>
+                     ipconfig / release</br>
+       new ip-         ipconfig / renew </br>
+history check-         ipconfig/displaydns</br>
+history delete-        ipconfig/flushdns</br>
+                     ipconfig / displaydns</br>
+                     ipconfig / displaydns ! clip</br>
 
-color chang
-help color
+color chang</br>  
+       help color</br>
 
-Update All Applications or Software
-                            winget upgrade
-                            winget upgrade --all 
-
-
-
-current weather
-                            @echo off
-                            curl wttr.in/Tejgaon
+<h2>Update All Applications or Software</h2>
+                            winget upgrade</br>
+                            winget upgrade --all </br>
 
 
-Win + R trick
+
+<h2>current weather</h2>
+                            @echo off</br>
+                            curl wttr.in/Tejgaon</br>
 
 
-how many software install in my PC check: shell:appsfolder
+<h2>Win + R trick</h2>
 
- 
+
+how many software install in my PC check: shell:appsfolder</br>
