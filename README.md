@@ -28,6 +28,5 @@ color chang</br>
 
 how many software install in my PC check: shell:appsfolder</br>
 
-
-
-clear history chrome://net-internals/
+clear history 
+              chrome://net-internals/
