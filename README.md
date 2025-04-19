@@ -30,6 +30,7 @@ how many software install in my PC check: shell:appsfolder</br>
 
 clear history 
               chrome://net-internals/ </br>
+              
 <h2>shortcut key</h2>
-Graphics driver restart</br>
+          Graphics driver restart-</br>
               Win + Ctrl + Shift + B </br>
