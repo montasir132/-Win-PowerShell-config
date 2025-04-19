@@ -30,3 +30,5 @@ how many software install in my PC check: shell:appsfolder</br>
 
 clear history 
               chrome://net-internals/
+Graphics driver restart
+              Win + Ctrl + Shift + B
