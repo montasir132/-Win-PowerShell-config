@@ -29,6 +29,6 @@ color chang</br>
 how many software install in my PC check: shell:appsfolder</br>
 
 clear history 
-              chrome://net-internals/
-Graphics driver restart
-              Win + Ctrl + Shift + B
+              chrome://net-internals/ </br>
+Graphics driver restart</br>
+              Win + Ctrl + Shift + B </br>
