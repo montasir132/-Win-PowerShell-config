@@ -20,7 +20,13 @@ color chang</br>
 <h2>motherboard config</h2>
                             MSI- </Br>
                                  BOOT- F11 KEY</br>
-                                 Bios- DEl Key</br>
+                                 Bios- DEL Key</br>
+                           ASRock Steel Legend - </Br>
+                                 BOOT- F2 KEY</br>
+                                 Bios- DEL Key</br>
+                          gigabyte - </Br>
+                                 BOOT- F12 KEY</br>
+                                 Bios- F2, DEL, or F10 Key</br>
 
 
 
