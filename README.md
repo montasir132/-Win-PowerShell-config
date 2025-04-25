@@ -17,6 +17,11 @@ color chang</br>
                             winget upgrade --all </br>
                             start ms-settings:windowsupdate-action.</br>
 
+<h2>motherboard config</h2>
+                            MSI- </Br>
+                                 BOOT- F11 KEY</br>
+                                 Bios- DEl Key</br>
+
 
 
 <h2>current weather</h2>
