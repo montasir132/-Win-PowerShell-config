@@ -36,9 +36,10 @@ color chang</br>
 
 
 <h2>Win + R trick</h2>
+    check temporary file: temp </br>
+    scan your computer: mrt </br>
+    how many software install in my PC check: shell:appsfolder</br>
 
-
-how many software install in my PC check: shell:appsfolder</br>
 
 clear history 
               chrome://net-internals/ </br>
