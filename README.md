@@ -34,6 +34,9 @@ color chang</br>
                             @echo off</br>
                             curl wttr.in/Tejgaon</br>
 
+<h2>Get Wi-Fi Password</h2>
+                        netsh wlan show profile name= "Wi-Fi name" key=clear
+
 
 <h2>Win + R trick</h2>
     check temporary file: temp </br>
