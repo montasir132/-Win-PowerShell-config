@@ -12,7 +12,7 @@ history delete-        ipconfig/flushdns</br>
 color chang</br>  
        help color</br>
 
-<h2>Update All Applications or Software</h2>
+<h2>Update All Applications or Software-</h2>
                             winget upgrade</br>
                             winget upgrade --all </br>
                             start ms-settings:windowsupdate-action.</br>
