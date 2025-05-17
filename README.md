@@ -1,4 +1,4 @@
-<h2>Find out the IP address-</h2>
+<h2>Find out the IP address :-</h2>
                      ipconfig</br>
                      ipconfig / al</br>
                      ipconfig / al ! findstr dns</br>
