@@ -60,3 +60,14 @@ clear history
               Win + Ctrl + Shift + B </br>
 
 <h2>sfc /scannow : (System File Checker) is a Windows command-line tool that scans for and repairs corrupted, changed, or damaged protected system files</h2> </br>
+
+<h2>Some tactical apps and tools</h2>
+obs studio,
+disk drill,
+UltraViewer,
+revo Uninstaller,
+rammap,
+Trae [mcv],
+Antigravity [ Photoshop alternative ],
+Laragon+xampp [Localhost],
+
