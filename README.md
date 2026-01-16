@@ -21,6 +21,7 @@ color chang</br>
                             start ms-settings:windowsupdate-action.</br>
 
 <h2>motherboard config</h2>
+                          BIOSShortcut C:\Windows\System32\shutdown.exe /r /t 0 /fw </br>
                             MSI- </Br>
                                  BOOT- F11 KEY</br>
                                  Bios- DEL Key</br>
@@ -58,6 +59,7 @@ clear history
 <h2>shortcut key</h2>
           Graphics driver restart-</br>
               Win + Ctrl + Shift + B </br>
+              C:\Windows\System32\SlideToShutDown.exe </br>
 
 <h2>sfc /scannow : (System File Checker) is a Windows command-line tool that scans for and repairs corrupted, changed, or damaged protected system files</h2> </br>
 
