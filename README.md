@@ -58,3 +58,5 @@ clear history
 <h2>shortcut key</h2>
           Graphics driver restart-</br>
               Win + Ctrl + Shift + B </br>
+
+<h2>sfc /scannow : (System File Checker) is a Windows command-line tool that scans for and repairs corrupted, changed, or damaged protected system files</h2> </br>
