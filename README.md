@@ -45,7 +45,12 @@ color chang</br>
     check temporary file: temp </br>
     scan your computer: mrt </br>
     how many software install in my PC check: shell:appsfolder</br>
-
+    Disk Cleanup Manager: cleanmgr </br>
+    viewing and editing the Windows Registry : regedit </br>
+    Control Panel open : control </br>
+    preloading necessary data : prefetch </br>
+    System Information tool (System summary): msinfo32 </br>
+    user temporary files folder : %temp% </br>
 
 clear history 
               chrome://net-internals/ </br>
