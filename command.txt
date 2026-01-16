@@ -1,0 +1,214 @@
+1. cd.. : Change directory {
+                         Up one Directory
+                         cd.. - Change directory to go
+                         one folder up
+                         }
+1.1. cd [folderName] { Change Directory
+                        cd - Change Directory lets you
+                        change and access the directory
+                        }
+2. dir: List directory contents {
+                                 List Files
+                                 dir-lists the files & folders contained
+                                 in the current working directory
+                                 }
+3. mkdir: Create a directory {
+                              Create New Folder
+                              mkdir - Make Directory & creates a
+                              new folder on the working directory
+                              }
+4. rmdir: Remove a directory
+5. del: Delete files
+6. copy: Copy files {
+                     Copy Files
+                     copy - copies the file (file.txt)
+                     to destination (copyfile.txt)
+                     /> copy [file] [destination]
+                     }
+7. xcopy: Extended copy with more options
+8. move: Move files
+9. rename: Rename files
+9.1. ren [folder] [newFolderName] :Rename {
+                                   Rename
+                                   ren - To rename files and folders
+                                   }
+IO. type: Display contents of a text file
+11. echo: Display text or enable/disable echoing of
+commands
+12. cls: Clear the command prompt window
+13. exit: Exit the command prompt
+14. ipconfig: Display IP configuration
+15. Ping: Send ICMP echo request to a network host
+16. netstat: Display network connections, routing tables,
+interface statistics, etc.
+17. tasklist: List running processes
+18. taskkill: Terminate a running process
+19. shutdown: Shutdown or restart the computer
+20. systeminfo: Display system configuration information
+21. d: {
+        Change Drive
+        To access another drive, type
+        the drive's letter, followed by :
+        }
+22. del [File] {
+                Delete Files
+                del Deletes files and files
+                in a folder}
+23.Find out the IP address
+                     ipconfig
+                     ipconfig / al
+                     ipconfig / al ! findstr dns
+                     ipconfig / release
+       new ip-         ipconfig / renew
+history check-         ipconfig/displaydns
+history delete-        ipconfig/flushdns
+                     ipconfig / displaydns
+                     ipconfig / displaydns ! clip
+
+color chang
+help color
+
+24.Update All Applications or Software
+                            winget upgrade
+                            winget upgrade --all 
+
+
+
+25.current weather
+                            @echo off
+                            curl wttr.in/Tejgaon
+
+
+Win + R trick
+
+
+1.how many software install in my PC check: shell:appsfolder
+2.Virus and Malware Deleter               : mrt
+
+
+
+How To Reset The Graphics Card Driver
+               Windows + Ctrl + Shift + B key
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+95% of resumes are rejected in seconds.
+
+Let ChatGPT help you join the top 5%
+
+Here are 10 prompts to create a standout resume:
+
+1. Write a Strong Summary:
+ "Create a compelling summary that highlights my skills and achievements for a [job position] at [company]."
+
+2. Highlight Experience:
+ "Write engaging descriptions of my work experience tailored to a [job position] at [company]."
+
+3. Make it ATS-Friendly:
+ "Optimize my resume with job-specific keywords to pass ATS for a [job position] at [company]."
+
+4. Integrate into Cover Letter:
+ "Summarize my resume for a cover letter that showcases my fit for a [job position] at [company]."
+
+5. References Section:
+ "List professional references relevant to a [job position] at [company]."
+
+6. Language Skills:
+ "Show how my multilingual abilities add value to [company] in the [job position]."
+
+7. Technical Skills:
+ "Highlight my technical expertise, certifications, and tools for a [job position] at [company]."
+
+8. Soft Skills:
+ "Demonstrate my soft skills with examples that align with a [job position] at [company]."
+
+9. Create a Flexible Template:
+ "Design a customizable resume template for different job applications."
+
+10. Feedback & Edits:
+ "Review and improve my resume for clarity, layout, and impact for a [job position] at [company]."
+
+🔥 GOOGLE are offering online courses with certification.
+
+This enables you to not just refine your skills and knowledge but also guarantees prudent decision-making regarding your finances.
+
+📕 7000+ Course Free Access: https://lnkd.in/dzCcMS7n
+
+💥 𝗚𝗼𝗼𝗴𝗹𝗲 𝗗𝗮𝘁𝗮 𝗔𝗻𝗮𝗹𝘆𝘁𝗶𝗰𝘀
+https://lnkd.in/g3mg5NTU
+
+💥 𝗚𝗼𝗼𝗴𝗹𝗲 𝗔𝗱𝘃𝗮𝗻𝗰𝗲𝗱 𝗗𝗮𝘁𝗮 𝗔𝗻𝗮𝗹𝘆𝘁𝗶𝗰𝘀
+https://lnkd.in/gN7yAHBy
+
+𝗚𝗼𝗼𝗴𝗹𝗲 𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗠𝗮𝗻𝗮𝗴𝗲𝗺𝗲𝗻𝘁
+🔗https://lnkd.in/gktPMKty
+
+𝗚𝗼𝗼𝗴𝗹𝗲 𝗔𝗜 𝗘𝘀𝘀𝗲𝗻𝘁𝗶𝗮𝗹𝘀
+https://lnkd.in/gKyDHMhe
+
+𝗚𝗼𝗼𝗴𝗹𝗲 𝗕𝘂𝘀𝗶𝗻𝗲𝘀𝘀 𝗜𝗻𝘁𝗲𝗹𝗹𝗶𝗴𝗲𝗻𝗰𝗲
+https://lnkd.in/g9yy_i2F
+
+💥 Google Cloud Big Data and Machine Learning Fundamentals
+🔗https://lnkd.in/gdX7hNWw
+
+1. Python for Everybody Specialization.
+🔗https://lnkd.in/ecgYZvEe
+
+2. Crash Course on Python
+🔗https://lnkd.in/gqxCebqF
+
+3. Get Started with Python
+🔗https://lnkd.in/gtH3KuYa
+
+4. Python for Data Science, AI & Development
+🔗https://lnkd.in/gBS8ijiP
+
+5. Google Data Analytics
+🔗https://lnkd.in/grF-U7Wn
+
+6. Google Cloud Big Data and Machine Learning Fundamentals
+🔗https://lnkd.in/gdX7hNWw
+
+7. IBM Data Science Professional Certificate.
+🔗https://lnkd.in/guyY26Ye
+
+8. IBM Data Analyst
+🔗https://lnkd.in/gMingmB2
+
+9. IBM Data Analytics with Excel and R
+🔗https://lnkd.in/gejqD9ry
+
+10. IBM Cybersecurity Analyst Professional Certificate.
+🔗https://lnkd.in/gqeHy6Ri
+
+11. IBM AI Engineering Professional Certificate.
+🔗https://lnkd.in/g23CpRyx
+
+12. IBM DevOps and Software Engineering Professional Certificate.
+🔗https://lnkd.in/gFxshWJf
+
+13. SQL Basics for Data Science Specialization
+https://lnkd.in/d6U5Ay3C
+
+14. Introduction to Data Science:
+https://lnkd.in/eJj5xHuX
+
+
+ 
