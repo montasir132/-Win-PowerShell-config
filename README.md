@@ -44,7 +44,7 @@ color chang</br>
 
 <h2>Win + R trick</h2>
     check temporary file: temp </br>
-    scan your computer: mrt </br>
+    scan your computer: mrt , sigverif </br>
     how many software install in my PC check: shell:appsfolder</br>
     Disk Cleanup Manager: cleanmgr </br>
     viewing and editing the Windows Registry : regedit </br>
