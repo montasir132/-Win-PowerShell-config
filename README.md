@@ -64,21 +64,21 @@ clear history
 <h2>sfc /scannow : (System File Checker) is a Windows command-line tool that scans for and repairs corrupted, changed, or damaged protected system files</h2> </br>
 
 <h2>Some tactical apps and tools</h2>
-obs studio,
-disk drill,
-UltraViewer,
-Twinkle Tray [Brightness controller],
-revo Uninstaller,
-rammap [tool],
-Pc manager [tool],
-Microsoft Whiteboard+Epic Pen [Painted tool],
-PowerToys [tool],
-wintoys [tool],
-Trae [mcv]+Antigravity [Ai Code editor],
-Affinity[ Photoshop alternative ],
-Laragon+xampp [Localhost],
-MinGW Installer [c/c++ Compiler]+LDLE+Node+git bash,
-Fliqlo,
-Cloudflare WARP [VPN],
-PELISHAX+[movie ],
-Bijoy Bayanno
+obs studio,</br>
+disk drill,</br>
+UltraViewer,</br>
+Twinkle Tray [Brightness controller],</br>
+revo Uninstaller,</br>
+rammap [tool],</br>
+Pc manager [tool],</br>
+Microsoft Whiteboard+Epic Pen [Painted tool],</br>
+PowerToys [tool],</br>
+wintoys [tool],</br>
+Trae [mcv]+Antigravity [Ai Code editor],</br>
+Affinity[ Photoshop alternative ],</br>
+Laragon+xampp [Localhost],</br>
+MinGW Installer [c/c++ Compiler]+LDLE+Node+git bash,</br>
+Fliqlo,</br>
+Cloudflare WARP [VPN],</br>
+PELISHAX+[movie ],</br>
+Bijoy Bayanno</br>
