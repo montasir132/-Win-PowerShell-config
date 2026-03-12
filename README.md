@@ -70,6 +70,7 @@ UltraViewer,</br>
 Twinkle Tray [Brightness controller],</br>
 revo Uninstaller,</br>
 rammap [tool],</br>
+WizTree [tool],</br>
 Pc manager [tool],</br>
 Microsoft Whiteboard+Epic Pen [Painted tool],</br>
 PowerToys [tool],</br>
