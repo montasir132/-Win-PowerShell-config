@@ -41,7 +41,6 @@ color chang</br>
 <h2>Get Wi-Fi Password</h2>
                         netsh wlan show profile name= "Wi-Fi name" key=clear</br>
 
-Check Disk : [ cmd --> Run as Administration --> chkdsk ]</br>
 <h2>Win + R trick</h2>
     check temporary file: temp </br>
     scan your computer: mrt , sigverif </br>
@@ -52,6 +51,8 @@ Check Disk : [ cmd --> Run as Administration --> chkdsk ]</br>
     preloading necessary data : prefetch </br>
     System Information tool (System summary): msinfo32 </br>
     user temporary files folder : %temp% </br>
+    Check Disk : [ cmd --> Run as Administration --> chkdsk ]</br>
+    
 
 clear history 
               chrome://net-internals/ </br>
