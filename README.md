@@ -39,9 +39,9 @@ color chang</br>
                             curl wttr.in/Tejgaon</br>
 
 <h2>Get Wi-Fi Password</h2>
-                        netsh wlan show profile name= "Wi-Fi name" key=clear
+                        netsh wlan show profile name= "Wi-Fi name" key=clear</br>
 
-
+Check Disk : [ cmd --> Run as Administration --> chkdsk ]</br>
 <h2>Win + R trick</h2>
     check temporary file: temp </br>
     scan your computer: mrt , sigverif </br>
