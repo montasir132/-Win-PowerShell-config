@@ -67,6 +67,7 @@ clear history
 <h2>Some tactical apps and tools</h2>
 obs studio,</br>
 disk drill,</br>
+Windhawk,</br>
 UltraViewer,</br>
 Twinkle Tray [Brightness controller],</br>
 revo Uninstaller,</br>
